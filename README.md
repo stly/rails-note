@@ -1,8 +1,8 @@
-== README
+# README
 Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<tt>`rake doc:app` </tt>.
 
-# simple rails demo that is a note
+## simple rails demo that is a note
 
 three aim
 
